@@ -7,13 +7,13 @@ let config = {
   showDelay: 2.5, 
 
   // Заголовок
-  title: 'sqwxivezv#8828',
+  title: 'NELFINS#0001',
 
   // Социальные сети
   social: {
-    telegram: '@sqwxivezv',
-    steam: 'sqwxivezv',
-    vk: 'sqwxivezv', 
+    telegram: '@nelfins_ts',
+    steam: 'nelfins',
+    vk: 'nelfins', 
   },
 
 
